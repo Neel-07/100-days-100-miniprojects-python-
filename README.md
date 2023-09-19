@@ -26,7 +26,7 @@ I've organized the projects into different categories to provide a diverse learn
 
 Below, you'll find the list of completed projects along with links to their respective LinkedIn posts, source code, and voiceover scripts:
 
-1. **Project 1:Generate a calender** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7109218179423309824-2oVE?utm_source=share&utm_medium=member_desktop) | [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Calender.py)
+1. **Project 1: Generate a calender** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7109218179423309824-2oVE?utm_source=share&utm_medium=member_desktop) | [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Calender.py)
    - Generate a calendar for a specific month and year.
     
 
