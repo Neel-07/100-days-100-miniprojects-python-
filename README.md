@@ -33,13 +33,11 @@ Below, you'll find the list of completed projects along with links to their resp
 2. **Project 2: Generate a Calendar** - [LinkedIn Post](link) | [GitHub](link)
    - Generate a calendar for a specific month and year.
     
-
-3. **Project 3: Temperature Converter** - [LinkedIn Post](link) | [GitHub](link)
-   - Convert temperatures between Fahrenheit and Celsius.
-     
-
-4. **Project 4: Random Password Generator** - [LinkedIn Post](link) | [GitHub](link)
+3. **Project 3: Random Password Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7109724925518618624-DSdr?utm_source=share&utm_medium=member_desktop) | [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/password.py)
    - Generate secure random passwords with various options.
+   
+4. **Project x: xxxxx** - [LinkedIn Post](link) | [GitHub](link)
+   - xxxxxx.
      
 
 (Keep adding your projects to this list as you complete them.)
