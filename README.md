@@ -31,7 +31,7 @@ Below, you'll find the list of completed projects along with links to their resp
     
 
 2. **Project 2: Temperature converter** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7109399893248516097-6i_F?utm_source=share&utm_medium=member_desktop) | [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/temperature.py)
-   -converts temperature from fahrenheit to celsius and vice versa.
+   - Converts temperature from fahrenheit to celsius and vice versa.
    
     
 3. **Project 3: Random Password Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7109724925518618624-DSdr?utm_source=share&utm_medium=member_desktop) | [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/password.py)
