@@ -40,6 +40,8 @@ Below, you'll find the list of completed projects along with links to their resp
 4. **Project 4: Password Manager** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7110152619855114240-Yyaq?utm_source=share&utm_medium=member_desktop) | [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Password_Manager.py)
    - Stores and retrieves passwords.
      
+5. **Project 5: To-do list** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7110441773344129024-QXdW?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/To-do.py)
+   - Makes a to do list for the tasks.
 
 (Keep adding your projects to this list as you complete them.)
 
