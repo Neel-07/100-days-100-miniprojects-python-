@@ -45,6 +45,9 @@ Below, you'll find the list of completed projects along with links to their resp
      
 6. **Project 5: Calculator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7110871078951911425-s8wb?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Calculator.py)
    - Calculates the basic addition, subtraction, multiplication, division between 2 numbers.
+  
+7. **Project 5: URL Shortner** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7111230059750789120-bQGi?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/url_shortner.py)
+   - Generates short urls for the given long urls.
      
 (Keep adding your projects to this list as you complete them.)
 
