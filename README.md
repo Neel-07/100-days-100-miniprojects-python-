@@ -51,7 +51,10 @@ Below, you'll find the list of completed projects along with links to their resp
   
 8. **Project 8: Dice-roller Simulator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7111549237737197568-TI--?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/dice_roller.py)
    - Generates a Number between 1-6.
-     
+
+9. **Project 8: Word_count Tool** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7111895640502116353-eQdl?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Word_count_tool.py)
+   - tells the total word count of the paragraph given.
+  
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
