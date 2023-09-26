@@ -56,7 +56,7 @@ Below, you'll find the list of completed projects along with links to their resp
    - tells the total word count of the paragraph given.
   
 10. **Project 10: Weather_App** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7112263473174130688-Fky4?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Weather.py)
-   - gives the weather of the city entered (like humidity, temperature) using weathermap API.
+    - gives the weather of the city entered (like humidity, temperature) using weathermap API.
   
 (Keep adding your projects to this list as you complete them.)
 
