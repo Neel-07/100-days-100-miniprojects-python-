@@ -63,6 +63,9 @@ Below, you'll find the list of completed projects along with links to their resp
    
 12. **Project 12: Password Strength Checker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7113014127115087874-F5Uw?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Password_strength_checker.py)
     - Checks the strength of the password entered.
+       
+13. **Project 13: Countdown timer** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7113379195430326272-Rtsd?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/countdown.py)
+    - sets a countdown for any duration in seconds.
   
 (Keep adding your projects to this list as you complete them.)
 
