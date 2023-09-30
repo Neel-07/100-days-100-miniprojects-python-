@@ -66,6 +66,9 @@ Below, you'll find the list of completed projects along with links to their resp
        
 13. **Project 13: Countdown timer** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7113379195430326272-Rtsd?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/countdown.py)
     - sets a countdown for any duration in seconds.
+   
+14. **Project 14: Rss feed Reader** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7113735738206138368-Crgx?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/news.py)
+    -  you can stay up-to-date with the latest news and updates from your favorite websites.
   
 (Keep adding your projects to this list as you complete them.)
 
