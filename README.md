@@ -69,6 +69,9 @@ Below, you'll find the list of completed projects along with links to their resp
    
 14. **Project 14: Rss feed Reader** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7113735738206138368-Crgx?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/news.py)
     -  you can stay up-to-date with the latest news and updates from your favorite websites.
+   
+15. **Project 15: Text to speech converter** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7114088883151122432-xZey?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/text2speech.py)
+    -  It converts the given text into speech.
   
 (Keep adding your projects to this list as you complete them.)
 
