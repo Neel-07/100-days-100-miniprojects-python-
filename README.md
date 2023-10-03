@@ -76,7 +76,7 @@ Below, you'll find the list of completed projects along with links to their resp
 16. **Project 16: Currency converter** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7114446842171469824-ICfR?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/currency.py)
     -  It converts one currency to another.
     -  
-17. **Project 16: Random_quote_Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7114789248561520640-blKh?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/quote.py)
+17. **Project 17: Random_quote_Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7114789248561520640-blKh?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/quote.py)
     - It generates random quote in its each run (from the quotes provided in the code).
       
 (Keep adding your projects to this list as you complete them.)
