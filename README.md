@@ -85,7 +85,8 @@ Below, you'll find the list of completed projects along with links to their resp
 19. **Project 19: Personal Journal** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-journaling-activity-7115522799779102720-rOBB?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/journal.py)
     - It lets you create your journal and helps to store it everyday.
    
-    
+20. **Project 20: Fortune teller** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-fortuneteller-activity-7115901545883312128-TTlA?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/fortune.py)
+    - Tells up  a fortune statement on each run.
       
 (Keep adding your projects to this list as you complete them.)
 
