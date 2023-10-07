@@ -89,7 +89,7 @@ Below, you'll find the list of completed projects along with links to their resp
     - Tells up  a fortune statement on each run.
       
 21. **Project 21: Language flashcards** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-languagelearning-activity-7116289756207968256-_Zwj?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/flashcard.py)
-    -helps to learn a new language quickly with the help of flashcards.
+    - helps to learn a new language quickly with the help of flashcards.
     
 (Keep adding your projects to this list as you complete them.)
 
