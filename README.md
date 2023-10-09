@@ -93,6 +93,9 @@ Below, you'll find the list of completed projects along with links to their resp
       
 22. **Project 22: Morse code translator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day22-100days100miniprojects-python-activity-7116664070866427905-us8u?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/morse_code.py)
     - translates normal text to morse code and vice versa.
+   
+23. **Project 23: Hangman Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day23-100days100miniprojects-python-activity-7117003577461489664-pgiT?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/hangman.py)
+    - a word guesser game.
          
 (Keep adding your projects to this list as you complete them.)
 
