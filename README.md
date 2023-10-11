@@ -99,7 +99,10 @@ Below, you'll find the list of completed projects along with links to their resp
 
 24. **Project 24: TicTacToe Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day24-100days100miniprojects-python-activity-7117349544543105025-e2Hm?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/tictactoe.py)
     - the classic tictactoe game.
-      
+   
+25. **Project 25: Crossword Puzzle Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day25-100days100miniprojects-python-activity-7117716323547197440-LP3g?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/crossword.py)
+    - generates a crossword puzzle for the given words.
+            
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
