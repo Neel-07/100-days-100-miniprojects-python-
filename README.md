@@ -102,6 +102,9 @@ Below, you'll find the list of completed projects along with links to their resp
    
 25. **Project 25: Crossword Puzzle Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day25-100days100miniprojects-python-activity-7117716323547197440-LP3g?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/crossword.py)
     - generates a crossword puzzle for the given words.
+   
+26. **Project 26: Music Playlist Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day26-100days100miniprojects-python-activity-7118069473701507072--NuS?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/music.py)
+    - generates a music playlist based on the genre, artist and duration you choose.
             
 (Keep adding your projects to this list as you complete them.)
 
