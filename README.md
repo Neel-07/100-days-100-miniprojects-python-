@@ -29,11 +29,9 @@ Below, you'll find the list of completed projects along with links to their resp
 1. **Project 1: Generate a calender** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7109218179423309824-2oVE?utm_source=share&utm_medium=member_desktop) | [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Calender.py)
    - Generate a calendar for a specific month and year.
     
-
 2. **Project 2: Temperature converter** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7109399893248516097-6i_F?utm_source=share&utm_medium=member_desktop) | [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/temperature.py)
    - Converts temperature from fahrenheit to celsius and vice versa.
-   
-    
+
 3. **Project 3: Random Password Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-codingchallenge-activity-7109724925518618624-DSdr?utm_source=share&utm_medium=member_desktop) | [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/password.py)
    - Generate secure random passwords with various options.
    
@@ -105,6 +103,9 @@ Below, you'll find the list of completed projects along with links to their resp
    
 26. **Project 26: Music Playlist Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day26-100days100miniprojects-python-activity-7118069473701507072--NuS?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/music.py)
     - generates a music playlist based on the genre, artist and duration you choose.
+
+27. **Project 27: Word Cloud Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day27-100days100miniprojects-python-activity-7118432119877492736-6P9_?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/WordCloud.py)
+    - turn your words into visual wonders.
             
 (Keep adding your projects to this list as you complete them.)
 
