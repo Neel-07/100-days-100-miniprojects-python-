@@ -106,6 +106,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 27. **Project 27: Word Cloud Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day27-100days100miniprojects-python-activity-7118432119877492736-6P9_?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/WordCloud.py)
     - turn your words into visual wonders.
+
+28. **Project 28: Personal finance Tracker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day28-100days100miniprojects-python-activity-7118823648320249856-Auus?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/finance.py)
+    - records your incomes and expenses on daily,weekly, and monthly basis.
             
 (Keep adding your projects to this list as you complete them.)
 
