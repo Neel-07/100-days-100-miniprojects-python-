@@ -112,6 +112,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 29. **Project 29: Artistic pattern Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day29-100days100miniprojects-python-activity-7119160638819491840-v0sC?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/pattern.py)
     - This program generates beautiful, colorful patterns that are as unique as your imagination.
+
+30. **Project 30: Chatbot** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100projects-python-chatbot-activity-7119519876037132288-vh0n?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/chatbot.py)
+    - The chatbot understands user input based on predefined patterns and responds accordingly.
       
 (Keep adding your projects to this list as you complete them.)
 
