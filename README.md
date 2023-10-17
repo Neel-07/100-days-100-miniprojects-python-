@@ -115,6 +115,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 30. **Project 30: Chatbot** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100projects-python-chatbot-activity-7119519876037132288-vh0n?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/chatbot.py)
     - The chatbot understands user input based on predefined patterns and responds accordingly.
+
+31. **Project 31: Digital clock** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-coding-activity-7119891352426807296-_033?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/clock.py)
+    - The clock displays the hours, minutes, and seconds, updating in real-time.
       
 (Keep adding your projects to this list as you complete them.)
 
