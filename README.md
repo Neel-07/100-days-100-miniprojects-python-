@@ -118,9 +118,12 @@ Below, you'll find the list of completed projects along with links to their resp
 
 31. **Project 31: Digital clock** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-coding-activity-7119891352426807296-_033?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/clock.py)
     - The clock displays the hours, minutes, and seconds, updating in real-time.
-
+      
 32. **Project 32: QR Code Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-coding-activity-7120263898716418048-ZZ9A?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/code.py)
     - Generates QR Codes from giver URL links.
+      
+33. **Project 32: Automated Email Sender** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-emailautomation-activity-7120618888119136257-V5Ll?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Email.py)
+    -  Sending out newsletters, event invitations, or recurring emails.
       
 (Keep adding your projects to this list as you complete them.)
 
