@@ -122,9 +122,12 @@ Below, you'll find the list of completed projects along with links to their resp
 32. **Project 32: QR Code Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-coding-activity-7120263898716418048-ZZ9A?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/code.py)
     - Generates QR Codes from giver URL links.
       
-33. **Project 32: Automated Email Sender** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-emailautomation-activity-7120618888119136257-V5Ll?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Email.py)
+33. **Project 33: Automated Email Sender** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-emailautomation-activity-7120618888119136257-V5Ll?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Email.py)
     -  Sending out newsletters, event invitations, or recurring emails.
       
+34. **Project 34: Screenshot App** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day34-pythonprojects-screenshotapp-activity-7120955332972953600-MhFp?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/screenshot.py)
+    -  a lightweight and user-friendly screenshot application.
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
