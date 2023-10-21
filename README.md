@@ -128,6 +128,10 @@ Below, you'll find the list of completed projects along with links to their resp
 34. **Project 34: Screenshot App** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day34-pythonprojects-screenshotapp-activity-7120955332972953600-MhFp?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/screenshot.py)
     -  a lightweight and user-friendly screenshot application.
 
+35. **Project 35: Automated file Organizer** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-automation-activity-7121362729881251841-KuDH?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/file.py)
+    - This tool streamlines the process of sorting files.
+
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
