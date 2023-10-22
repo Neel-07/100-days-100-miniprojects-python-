@@ -131,6 +131,9 @@ Below, you'll find the list of completed projects along with links to their resp
 35. **Project 35: Automated file Organizer** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-automation-activity-7121362729881251841-KuDH?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/file.py)
     - This tool streamlines the process of sorting files.
 
+36. **Project 36: Casino Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-casinogame-activity-7121706438057443328-X4UX?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/casino.py)
+    - This project lets you enjoy a hand of Blackjack or try your hand at a game of Poker.
+
 
 (Keep adding your projects to this list as you complete them.)
 
