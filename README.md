@@ -138,13 +138,13 @@ Below, you'll find the list of completed projects along with links to their resp
     - With this project, you can create, edit, and save text documents seamlessly.
 
 38. **Project 38: Typing speed calculator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-typingspeed-activity-7122452152404316160-vwyP?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/typing_speed.py)
-    - a tool to measure your typing speed and accuracy.
+    - A tool to measure your typing speed and accuracy.
 
 39. **Project 39: Rock paper scissors Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-coding-activity-7122797620283998208-fqFI?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Rock_Paper_Scissor.py)
     - This project brings the classic game of Rock-Paper-Scissors to life with a sleek graphical user interface.
 
 40. **Project 40: Notes organizer with voice** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100days100miniprojects-python-noteorganizer-activity-7123142600965906433-_6zT?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/notes.py)
-    - this project can easily create, edit, and manage your notes.
+    - This project can easily create, edit, and manage your notes.
 
 (Keep adding your projects to this list as you complete them.)
 
