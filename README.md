@@ -152,6 +152,9 @@ Below, you'll find the list of completed projects along with links to their resp
 42. **Project 42: File Renamer** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-filerenamer-activity-7123877558172925953-nF3s?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/File_Renamer.py)
     - Your Ultimate File Management Companion, renames the files with ease.
       
+43. **Project 43: Text-based Web Browser** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-100daysofminiprojects-activity-7124231362554773504-WL2F?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/web_browser.py)
+    - Explore web pages, navigate HTML, and uncover the raw HTML content of your favorite websites, all from the command line.
+      
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
