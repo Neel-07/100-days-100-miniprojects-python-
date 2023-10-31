@@ -157,6 +157,9 @@ Below, you'll find the list of completed projects along with links to their resp
       
 44. **Project 44: Emoji-to-Text Converter** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-emojidecoder-activity-7124612501756854273-ukA4?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Emoji2Text%20Converter.py)
     - converts emoji symbols into their corresponding textual descriptions.
+
+45. **Project 45: Python Table Creator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-datavisualization-activity-7124944329852211200-3Vs2?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/table.py)
+    - this program harnesses the power of the tkinter library to create a stunning table.
       
 (Keep adding your projects to this list as you complete them.)
 
