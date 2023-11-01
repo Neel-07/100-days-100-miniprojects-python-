@@ -161,6 +161,9 @@ Below, you'll find the list of completed projects along with links to their resp
 45. **Project 45: Python Table Creator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-datavisualization-activity-7124944329852211200-3Vs2?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/table.py)
     - this program harnesses the power of the tkinter library to create a stunning table.
       
+46. **Project 46: Weight Converter** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-datascience-activity-7125340882693742592-1Fkc?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/weight%20_converter.py)
+    - Converts kilograms to grams, pounds, and ounces.
+      
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
