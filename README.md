@@ -163,6 +163,9 @@ Below, you'll find the list of completed projects along with links to their resp
       
 46. **Project 46: Weight Converter** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-datascience-activity-7125340882693742592-1Fkc?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/weight%20_converter.py)
     - Converts kilograms to grams, pounds, and ounces.
+
+47. **Project 47: Color Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-colorgame-activity-7125686240615555072-DwFf?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/color_game.py)
+    - a fun and challenging game that tests your ability to type the color of the word displayed, not the word itself.
       
 (Keep adding your projects to this list as you complete them.)
 
