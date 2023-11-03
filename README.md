@@ -166,7 +166,10 @@ Below, you'll find the list of completed projects along with links to their resp
 
 47. **Project 47: Color Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-colorgame-activity-7125686240615555072-DwFf?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/color_game.py)
     - a fun and challenging game that tests your ability to type the color of the word displayed, not the word itself.
-      
+ 
+48. **Project 48: Sentiment _Detector** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiproject-sentimentanalysis-python-activity-7126022387011104768-9GTi?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/sentiment_detector.py)
+    - It can analyze text and tell you whether it's positive, negative, or neutral.
+       
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
