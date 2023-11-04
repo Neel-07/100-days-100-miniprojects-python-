@@ -169,6 +169,9 @@ Below, you'll find the list of completed projects along with links to their resp
  
 48. **Project 48: Sentiment _Detector** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiproject-sentimentanalysis-python-activity-7126022387011104768-9GTi?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/sentiment_detector.py)
     - It can analyze text and tell you whether it's positive, negative, or neutral.
+
+49. **Project 49: Voice_recorder** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-activity-7126447867375796225-RRHc?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/voice_recorder.py)
+    - your go-to tool for seamless audio recording.
        
 (Keep adding your projects to this list as you complete them.)
 
