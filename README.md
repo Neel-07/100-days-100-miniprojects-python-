@@ -172,6 +172,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 49. **Project 49: Voice_recorder** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-activity-7126447867375796225-RRHc?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/voice_recorder.py)
     - your go-to tool for seamless audio recording.
+
+50. **Project 50: Turtle Rainbow Art** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-turtlegraphics-activity-7126783753422594048-KYvC?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/rainbow.py)
+    - This delightful code creates a mesmerizing rainbow using the Turtle package.
        
 (Keep adding your projects to this list as you complete them.)
 
