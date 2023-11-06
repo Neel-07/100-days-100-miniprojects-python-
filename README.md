@@ -175,6 +175,10 @@ Below, you'll find the list of completed projects along with links to their resp
 
 50. **Project 50: Turtle Rainbow Art** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-turtlegraphics-activity-7126783753422594048-KYvC?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/rainbow.py)
     - This delightful code creates a mesmerizing rainbow using the Turtle package.
+   
+51. **Project 51: Turtle Chessboard! ** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-python-miniprojects-activity-7127109379274792960-J6FK?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/chessboard.py)
+    - The alternating black and white squares give it an authentic chessboard appearance.
+       
        
 (Keep adding your projects to this list as you complete them.)
 
