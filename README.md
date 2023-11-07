@@ -178,6 +178,9 @@ Below, you'll find the list of completed projects along with links to their resp
    
 51. **Project 51: Turtle Chessboard!** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-python-miniprojects-activity-7127109379274792960-J6FK?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/chessboard.py)
     - The alternating black and white squares give it an authentic chessboard appearance.
+
+52. **Project 52: Alarm_clock** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-100daysofcode-python-activity-7127488184480845824-W2CX?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/alarm_clock.py)
+    - It can create Multiple alarms with custom labels.
        
        
 (Keep adding your projects to this list as you complete them.)
