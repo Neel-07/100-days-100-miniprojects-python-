@@ -181,6 +181,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 52. **Project 52: Alarm_clock** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-100daysofcode-python-activity-7127488184480845824-W2CX?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/alarm_clock.py)
     - It can create Multiple alarms with custom labels.
+
+53. **Project 53: File Compression** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-filemanagement-activity-7127851611967676416-dSqy?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/file_compression.py)
+    - Transforms a whole directory into a single zip file and extract files effortlessly when needed.
        
        
 (Keep adding your projects to this list as you complete them.)
