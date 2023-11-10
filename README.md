@@ -187,7 +187,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 54. **Project 54: Pdf Checker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-python-filecomparison-activity-7128276160358068224-dGzN?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/pdf_checker.py)
     - It checks two pdfs and tell us if they are identical or not.
-       
+
+55. **Project 55: Mini_search Engine** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-activity-7128616095233507328-q1iM?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Mini_Search.py)
+    - It allows you to effortlessly search through your collection of texts.
        
 (Keep adding your projects to this list as you complete them.)
 
