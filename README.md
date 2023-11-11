@@ -190,6 +190,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 55. **Project 55: Mini_search Engine** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-activity-7128616095233507328-q1iM?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Mini_Search.py)
     - It allows you to effortlessly search through your collection of texts.
+
+56. **Project 56: Workout Planner** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-python-fitnesstech-activity-7128958514189717504-Zswf?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/workout.py)
+    -  Tailor your workout based on your fitness level, goals, and equipment.
        
 (Keep adding your projects to this list as you complete them.)
 
