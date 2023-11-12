@@ -194,6 +194,9 @@ Below, you'll find the list of completed projects along with links to their resp
 56. **Project 56: Workout Planner** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-python-fitnesstech-activity-7128958514189717504-Zswf?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/workout.py)
     -  Tailor your workout based on your fitness level, goals, and equipment.
        
+57. **Project 57: 8bit_Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-gamedevelopment-python-activity-7129320032555139073-5Qv4?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/8_bit_game.py)
+    -  an engaging 8-bit game that's all about speed, strategy, and a whole lot of fun! 
+       
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
