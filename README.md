@@ -196,6 +196,9 @@ Below, you'll find the list of completed projects along with links to their resp
        
 57. **Project 57: 8bit_Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-gamedevelopment-python-activity-7129320032555139073-5Qv4?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/8_bit_game.py)
     -  an engaging 8-bit game that's all about speed, strategy, and a whole lot of fun! 
+
+58. **Project 58: Age_Calculator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-programming-coding-activity-7129662989665775616-eOpH?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Age_calculator.py)
+    -  Calculate age in weeks, in addition to years, months, and days.
        
 (Keep adding your projects to this list as you complete them.)
 
