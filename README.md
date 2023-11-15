@@ -203,6 +203,9 @@ Below, you'll find the list of completed projects along with links to their resp
 59. **Project 59: Youtube_video_downloader** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-python-tkinter-activity-7130034214665605120-7yBB?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/yt_vd_downloader.py)
     -  a YouTube Video Downloader built with Python and Tkinter.
       
+60. **Project 60: Desktop_Notifier** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-python-codingjourney-activity-7130388004006707200-8ubW?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/desktop_notifier.py)
+    -  a desktop notifier build using python and plyer library which  sends notifications with customized messages at regular intervals.
+      
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
