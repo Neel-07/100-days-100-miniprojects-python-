@@ -208,6 +208,9 @@ Below, you'll find the list of completed projects along with links to their resp
       
 61. **Project 61: Website_Blocker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day61-pythonproject-websiteblocker-activity-7130762306581385216-J18Y?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Website_Blocker.py)
     -  a website blocker that helps maintain focus by restricting unwanted sites during work hours.
+
+62. **Project 62: Site_Connectivity_Checker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-pythonprojects-networkmonitoring-activity-7131130946086457344--1jX?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/site_connectivity_checker.py)
+    -  This real-time URL monitor assesses live status, flagging live, unreachable, or error URL.
       
 (Keep adding your projects to this list as you complete them.)
 
