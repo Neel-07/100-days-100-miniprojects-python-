@@ -214,6 +214,9 @@ Below, you'll find the list of completed projects along with links to their resp
       
 63. **Project 63: Directory_Tree** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-pythonprojects-codenewbie-activity-7131479496406302720-2otB?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/directory_tree.py)
     -  This handy tool visualizes file and directory relationships, making it easier to grasp their structure.
+      
+64. **Project 64: Pong_Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-pythonprogramming-ponggame-activity-7131841058249842688-CkxO?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/pong_game.py)
+    -  A recreation of the classic arcade game where players control paddles to hit a ball, aiming to score against each other.
     
 (Keep adding your projects to this list as you complete them.)
 
