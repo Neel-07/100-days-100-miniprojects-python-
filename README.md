@@ -220,6 +220,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 65. **Project 65: Image_Watermark** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofcode-pythonprojects-imageprocessing-activity-7132202910280523776-F4bY?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Watermark.py)
     -  It efficiently overlays watermarks on images in a specified folder, enhancing their ownership and protecting content.
+
+66. **Project 66: Audio_Book Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprojects-texttospeech-100daysofcode-activity-7132583998920273920-Flob?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Audio_book_generator.py)
+    -  Users can convert any text-based content into an audio book, choose voices, adjust speeds, and enjoy their favorite books on the go.
     
 (Keep adding your projects to this list as you complete them.)
 
