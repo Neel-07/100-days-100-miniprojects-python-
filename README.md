@@ -227,6 +227,9 @@ Below, you'll find the list of completed projects along with links to their resp
 67. **Project 67: Bulk Image Downloader** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day67-100daysofminiprojects-imagescraping-activity-7132934881810034688-hwj1?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Image_downloader.py)
     -  This Python script enables easy bulk image downloads from any webpage.
     
+68. **Project 68: Battery Percentage Notifier** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_batterychecker-pythonprojects-automation-activity-7133307037563666432-3CeT?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Battery_percentage.py)
+    -  This python script gives you a notification and tells up about your battery percentage of the device.
+      
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
