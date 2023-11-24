@@ -229,6 +229,9 @@ Below, you'll find the list of completed projects along with links to their resp
     
 68. **Project 68: Battery Percentage Notifier** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_batterychecker-pythonprojects-automation-activity-7133307037563666432-3CeT?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Battery_percentage.py)
     -  This python script gives you a notification and tells up about your battery percentage of the device.
+
+69. **Project 69: IMDB Ratings Checker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprojects-imdbscraper-automation-activity-7133661776163844096-dhfW?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/IMDB_ratings.py)
+    -  Generates the IMDB ratings of the films and stores them in a csv file.
       
 (Keep adding your projects to this list as you complete them.)
 
