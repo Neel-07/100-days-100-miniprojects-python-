@@ -232,6 +232,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 69. **Project 69: IMDB Ratings Checker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprojects-imdbscraper-automation-activity-7133661776163844096-dhfW?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/IMDB_ratings.py)
     -  Generates the IMDB ratings of the films and stores them in a csv file.
+
+70. **Project 70: Roman to Decimal converter** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonscripting-numericconversion-day70-activity-7134025200550969344-v-_t?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Roman_to_decimal.py)
+    -  This python script converts the roman numerals to decimal and vice versa.
       
 (Keep adding your projects to this list as you complete them.)
 
