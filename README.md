@@ -239,6 +239,10 @@ Below, you'll find the list of completed projects along with links to their resp
 71. **Project 71: Extract text from videos** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_videotech-textextraction-innovation-activity-7134393605510639616-R81c?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Extract_text%20_from_video.py)
     -  This python script can extract text from videos effortlessly.
 
+72. **Project 72: Bubble sort Visualizer** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-tkinter-sortingalgorithms-activity-7134754870120566784-n8Pa?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/bubble_sort.py)
+    -  This script helps to understand the Bubble sort algorithm using the tkinter library.
+
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
