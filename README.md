@@ -245,6 +245,9 @@ Below, you'll find the list of completed projects along with links to their resp
 73. **Project 73: Bitmap message** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprojects-asciiart-creativecoding-activity-7135111432404164609-OFyV?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Bitmap.py)
     -  This Python code merges your message with a preset bitmap image, creating an artistic output.
 
+74. **Project 74: Bouncing DVD Logo** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-tkinter-dvdlogo-activity-7135469364887117824-ih9L?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/DVD_bounce.py)
+    -  This Python script creates a colourful Bouncing DVD logo animation with the help of tkinter library.
+
 
 (Keep adding your projects to this list as you complete them.)
 
