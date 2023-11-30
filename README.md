@@ -248,6 +248,9 @@ Below, you'll find the list of completed projects along with links to their resp
 74. **Project 74: Bouncing DVD Logo** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-tkinter-dvdlogo-activity-7135469364887117824-ih9L?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/DVD_bounce.py)
     -  This Python script creates a colourful Bouncing DVD logo animation with the help of tkinter library.
 
+75. **Project 75: Caesar Cipher** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprojects-cryptography-caesarcipher-activity-7135839490803138562-gukp?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/caesar_cipher.py)
+    -  It's a fascinating encryption method that shifts letters by a key number.
+
 
 (Keep adding your projects to this list as you complete them.)
 
