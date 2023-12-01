@@ -251,6 +251,8 @@ Below, you'll find the list of completed projects along with links to their resp
 75. **Project 75: Caesar Cipher** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprojects-cryptography-caesarcipher-activity-7135839490803138562-gukp?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/caesar_cipher.py)
     -  It's a fascinating encryption method that shifts letters by a key number.
 
+76. **Project 76: Caesar Hacker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprojects-cryptography-caesarcipher-activity-7136205391335411712-_12Z?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Caesar_hacker.py)
+    -  This code attempts to decrypt messages encrypted with the Caesar cipher by trying every possible key
 
 (Keep adding your projects to this list as you complete them.)
 
