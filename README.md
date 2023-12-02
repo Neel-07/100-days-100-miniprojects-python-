@@ -252,7 +252,10 @@ Below, you'll find the list of completed projects along with links to their resp
     -  It's a fascinating encryption method that shifts letters by a key number.
 
 76. **Project 76: Caesar Hacker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprojects-cryptography-caesarcipher-activity-7136205391335411712-_12Z?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Caesar_hacker.py)
-    -  This code attempts to decrypt messages encrypted with the Caesar cipher by trying every possible key
+    -  This code attempts to decrypt messages encrypted with the Caesar cipher by trying every possible key.
+
+77. **Project 77: Calender Maker** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprojects-calendarmaker-coding-activity-7136557159659491329-Nt2V?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/CalenderMaker.py)
+    -  This program generates a monthly calendar and saves it to a text file, perfect for printing and organizing schedules.
 
 (Keep adding your projects to this list as you complete them.)
 
