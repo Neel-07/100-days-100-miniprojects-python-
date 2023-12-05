@@ -263,6 +263,9 @@ Below, you'll find the list of completed projects along with links to their resp
 79. **Project 79: Etching Drawer** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonart-creativecoding-etchasketchinspired-activity-7137262489146175489-yHa3?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Etching_Drawer.py)
     -  A Python art program that simulates drawing lines using WASD keys.
 
+80. **Project 80: Factor Finder** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprogramming-mathematics-factorfinder-activity-7137625813536968704-ffiK?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/factor_finder.py)
+    -  A Python program designed to explore the factors of any positive whole number.
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
