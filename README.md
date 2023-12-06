@@ -266,6 +266,9 @@ Below, you'll find the list of completed projects along with links to their resp
 80. **Project 80: Factor Finder** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonprogramming-mathematics-factorfinder-activity-7137625813536968704-ffiK?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/factor_finder.py)
     -  A Python program designed to explore the factors of any positive whole number.
 
+81. **Project 81: Fastest Draw** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythongames-fastdraw-reflextest-activity-7138019796826169345-HPON?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/fast_draw.py)
+    -  A game to check if you can press Enter within 0.3 seconds when you see 'DRAW'.
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
