@@ -271,6 +271,9 @@ Below, you'll find the list of completed projects along with links to their resp
 
 82. **Project 82: Flooder** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_floodergame-colorfulchallenge-strategicgaming-activity-7138395197104713728-X4BO?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/flooder.py)
     -  Can you fill the entire board with a single color or shape? With limited moves and various display modes, it's a test of strategy and quick thinking.
+
+83. **Project 83: Four in a Row** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-gaming-classicgames-activity-7138729297267130368-vYNH?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Four_in_a_row.py)
+    -   this Python implementation challenges players to connect four tiles in a row.
       
 (Keep adding your projects to this list as you complete them.)
 
