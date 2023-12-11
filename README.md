@@ -280,6 +280,9 @@ Below, you'll find the list of completed projects along with links to their resp
       
 85. **Project 85: Hourglass** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-codeart-simulation-activity-7139488897247490048-j3Ck?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Hourglass.py)
     -   This script shows up the hourglass animation using python and bext library.
+
+86. **Project 86: Mystery Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_detectivegame-problemsolving-puzzlegame-activity-7139840100661731328-wCfe?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Mystery_game.py)
+    -   a captivating detective game developed to challenge your deductive reasoning and logic.
       
 (Keep adding your projects to this list as you complete them.)
 
