@@ -287,6 +287,12 @@ Below, you'll find the list of completed projects along with links to their resp
 87. **Project 87: Mancala Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-mancala-digitalgaming-activity-7140154453206241280-xDEj?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Mancala.py)
     -   the digital adaptation of the timeless game, Mancala. 
       
+88. **Project 88: Mondrian Art Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_100daysofminiprojects-mondrianartgenerator-activity-7140566523861008384-k64Y?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Mondrian.py)
+    -    It creates abstract art resembling the style of painter Piet Mondrian using random lines and rectangles in a console-based environment. 
+
+89. **Project 89: Monty Hall simulator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_montyhall-day89-100daysofminiprojects-activity-7140885723787808768-lDQ_?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Monty_hall.py)
+      -  The simulation demonstrates the dynamics of decision-making by allowing you to pick a door, revealing a goat behind another door, and giving you the choice to switch or stick.
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
