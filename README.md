@@ -293,6 +293,9 @@ Below, you'll find the list of completed projects along with links to their resp
 89. **Project 89: Monty Hall simulator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_montyhall-day89-100daysofminiprojects-activity-7140885723787808768-lDQ_?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Monty_hall.py)
       -  The simulation demonstrates the dynamics of decision-making by allowing you to pick a door, revealing a goat behind another door, and giving you the choice to switch or stick.
 
+90. **Project 90: Numeral System** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day90-100daysofminiprojects-programming-activity-7141289715722346496-gQeZ?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Number_system.py)
+      - A Python program that displays equivalent numbers in decimal, hexadecimal, and binary numeral systems with user input customization and validation.
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
