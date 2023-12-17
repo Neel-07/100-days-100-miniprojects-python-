@@ -299,6 +299,9 @@ Below, you'll find the list of completed projects along with links to their resp
 91. **Project 91: Periodic Table** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_science-education-chemistry-activity-7141611794589990912-rEqh?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Periodic_table.py)
       - An interactive tool offering insightful exploration of the periodic table's elements and their properties through a user-friendly interface.
 
+92. **Project 92: Pig Latin Translator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-codingfun-piglatintranslator-activity-7142013852170264576-jv7e?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Pig_latin_translation.py)
+      - This program ingeniously converts English words into fascinating Pig Latin.
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
