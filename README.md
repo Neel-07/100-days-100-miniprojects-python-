@@ -302,6 +302,9 @@ Below, you'll find the list of completed projects along with links to their resp
 92. **Project 92: Pig Latin Translator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-codingfun-piglatintranslator-activity-7142013852170264576-jv7e?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Pig_latin_translation.py)
       - This program ingeniously converts English words into fascinating Pig Latin.
 
+93. **Project 93: Powerball Lottery Simulation** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonproject-powerball-lotterysimulation-activity-7142371721675743233-0qCC?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Powerball_lottery.py)
+      - It is a Python program that allows users to experience the excitement of playing the lottery without spending any actual money.
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
