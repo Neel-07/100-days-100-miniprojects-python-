@@ -305,6 +305,10 @@ Below, you'll find the list of completed projects along with links to their resp
 93. **Project 93: Powerball Lottery Simulation** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_pythonproject-powerball-lotterysimulation-activity-7142371721675743233-0qCC?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Powerball_lottery.py)
       - It is a Python program that allows users to experience the excitement of playing the lottery without spending any actual money.
 
+94. **Project 94: Progress Bar Simulation** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day94-100daysofminiprojects-python-activity-7142733456563683328-_I7c?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/progress_bar.py)
+      - Generates dynamic progress bars in Python using the getProgressBar() function to enhance user experience and task visualization.
+
+
 (Keep adding your projects to this list as you complete them.)
 
 ## Contributions and Feedback
