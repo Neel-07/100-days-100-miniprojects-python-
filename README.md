@@ -311,6 +311,9 @@ Below, you'll find the list of completed projects along with links to their resp
 95. **Project 95: Seven-Segment Display Generator** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day95-100daysofminiprojects-activity-7143081974440542208-8C_k?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/seven.py)
       - A Python project that converts numerical inputs into visually appealing seven-segment display representations.
 
+96. **Project 96: Sine Message** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-creativecoding-terminalanimation-activity-7143510817060102144-pQDg?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/sine_message.py)
+      - This Script generates a Sine Wave Message animation using Python.
+
 
 (Keep adding your projects to this list as you complete them.)
 
