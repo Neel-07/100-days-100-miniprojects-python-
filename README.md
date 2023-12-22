@@ -314,6 +314,9 @@ Below, you'll find the list of completed projects along with links to their resp
 96. **Project 96: Sine Message** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-creativecoding-terminalanimation-activity-7143510817060102144-pQDg?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/sine_message.py)
       - This Script generates a Sine Wave Message animation using Python.
 
+97. **Project 97: Snail Race** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_python-gamedevelopment-codingchallenge-activity-7143817889014296576-aGgh?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Snail_race.py)
+      - A python project that simulates an exciting race between snails as they compete to reach the finish line first.
+
 
 (Keep adding your projects to this list as you complete them.)
 
