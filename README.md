@@ -321,7 +321,10 @@ Below, you'll find the list of completed projects along with links to their resp
       - A simulation program for the Japanese abacus (Soroban) to explore its traditional calculation methods in a digital environment.
 
 99. **Project 99: Tower of Hanoi** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day99-100daysofminiprojects-python-activity-7144539198530674688-oHV8?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/Tower_of_hanoi.py)
-      - A classic Tower of Hanoi puzzle game in Python featuring intuitive user input and visualization of the tower's state..
+      - A classic Tower of Hanoi puzzle game in Python featuring intuitive user input and visualization of the tower's state.
+
+100. **Project 100: 2048 Game** - [LinkedIn Post](https://www.linkedin.com/posts/neelmishra07_day100-100daysofminiprojects-activity-7144885960269258752-s6Vx?utm_source=share&utm_medium=member_desktop)  |  [GitHub](https://github.com/Neel-07/100-days_100-miniprojects_python/blob/main/Programs/2048_game.py)
+      - 2048: A challenging puzzle game where players merge numbers on a 4x4 grid to reach the elusive 2048 tile.
 
 (Keep adding your projects to this list as you complete them.)
 
